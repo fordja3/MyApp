@@ -1,0 +1,8 @@
+<resources>
+    <string name="_3">3</string>
+   <string changeText = "The app is UNLOCKED!!">The app is UNLOCKED!!</string>
+    <string name="changeText">The app is UNLOCKED!!</string>
+    <string name="the_app_is_locked">The App is Locked!</string>
+    <string name="unlock">UNLOCK</string>
+
+</resources>
